@@ -13,11 +13,7 @@ As to why *this* project exist, it's to serve as a template for future open
 source PHP projects. Of course, feel free to fork it and make your own recipe.
 
 ## Installation
-
-To use **MaliciousScan** you must download it in the repo.
-and 
-
-Make sure your installation instructions work by testing them!
+..todo..
 
 ## Usage
 
