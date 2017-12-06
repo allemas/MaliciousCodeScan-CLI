@@ -1,0 +1,17 @@
+{
+    "name": "allema_s/malicious-code-scanner",
+    "authors": [
+        {
+            "name": "Sébastien Allemand",
+            "email": "sebastien.a.consulting@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MaliciousScanner\\": "src/"
+        }
+    }
+}
